@@ -2,10 +2,9 @@ import yfinance as yf
 import matplotlib.pyplot as plt
 
 fig, ax = plt.subplots()
-
 # If you want to try different stocks, search up the stock, then ticker.
 # After, change what's in the parentheses to that ticker and it'll visualize it.
-aapl = yf.Ticker("AAPL")
+aapl = yf.Ticker("QQQ")
 df = aapl.history(period='1y')
 
 # Get Positive Days
