@@ -4,7 +4,7 @@
 
 ## About the Project
 
-I am 14 years old and aspiring to become a Quantitative Developer. I built this tool to practice the core skills of the job: fetching market data, filtering it with logic, and visualizing the trends cleanly.
+I am 15 years old and aspiring to become a Quantitative Developer. I built this tool to practice the core skills of the job: fetching market data, filtering it with logic, and visualizing the trends cleanly.
 
 
 
